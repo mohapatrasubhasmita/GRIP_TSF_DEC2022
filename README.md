@@ -2,6 +2,7 @@
 This Banking management system have following features:
 Home page-About us-Customers-All about transactions
 This link is also available on #link="https://subhasmitabankingmanagement.netlify.app/"
+
 HOME PAGE
 
 ![BMS1](https://user-images.githubusercontent.com/98047823/206452933-e65862bc-f6de-4dcc-ab0e-b725832269cc.PNG)
