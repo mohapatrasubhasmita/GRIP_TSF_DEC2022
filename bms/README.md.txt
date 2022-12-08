@@ -1,6 +1,8 @@
 # GRIP_TSF_DEC2022
 This Banking management system have following features:
+
 Home page-About us-Customers-All about transactions
+
 This link is also available on #link="https://subhasmitabankingmanagement.netlify.app/"
 
 HOME PAGE
